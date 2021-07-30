@@ -5,7 +5,7 @@
 4. 반응형 레이아웃
 5. Firebase
 
-![image](https://user-images.githubusercontent.com/57261470/127614036-1a6207b7-8a35-4ff8-aa23-e7279aed6de7.png)
+![image](https://user-images.githubusercontent.com/57261470/127614105-b175afdb-089b-4b32-ada3-59ef85976d19.png)
 
 
 
