@@ -55,7 +55,7 @@ function Header() {
                         height={40}
                         onClick={signOut}
                     />
-                    <p className='hidden lg:inline-flex whitespace-nowrap font-semibold pr-3'>Su hyun</p>
+                    <p className='hidden lg:inline-flex whitespace-nowrap font-semibold pr-3'>{session[0].user.name}</p>
                     <ViewGridIcon className='icon'/>
                     <ChatIcon className='icon'/>
                     <BellIcon className='icon'/>

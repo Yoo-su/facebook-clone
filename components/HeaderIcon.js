@@ -1,6 +1,6 @@
 function HeaderIcon({Icon, active}) {
     return (
-        <div className='group flex items-center cursor-pointer md:px-10 sm:h-14
+        <div className='group flex items-center cursor-pointer md:px-7 sm:h-14 sm:px-6
         md:hover:bg-gray-100 rounded-xl active:border-b-2 active:border-blue-500'>
             <Icon className={`h-5 
                 text-gray-500
